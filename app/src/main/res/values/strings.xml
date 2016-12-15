@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="add_token">Add Token</string>
+	<string name="app_name">DoorTap</string>
+	<string name="app_name_control">DoorTap Control</string>
+	<string name="app_name_client">DoorTap Client</string>
+	<string name="app_name_debug">DoorTap Debug</string>
+	<string name="cancel">Cancel</string>
+	<string name="save">Save</string>
+	<string name="field_door_default">No host set</string>
+	<string name="field_status_default">Unconnected...</string>
+	<string name="label_log">Access Log:</string>
+	<string name="label_door">Door Host:</string>
+	<string name="label_status">Door Status:</string>
+	<string name="launch">Launch</string>
+	<string name="log_started">Log started...</string>
+	<string name="connecting">Connecting...</string>
+	<string name="connect">Connect to Door</string>
+	<string name="start_relay">Start NFC Token Relay</string>
+</resources>
